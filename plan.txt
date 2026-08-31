@@ -18,7 +18,7 @@ There are four main deliverables for the project.
 (54 points) Then there is the city essay, where teams describe the unique attributes of their city and the solutions to the annual challenge.
 (72 points) Then there's the presentation/Q&A part of the competition, where teams, in 7 minutes, present their city and answer questions from a panel of judges.
 (10 points) Lastly, there's the project plan, where teams develop a project plan that helps them stay organized and focused.
-Timeline.png
+Timeline (use the timeline.png to create a replica of the table same info.)
 Prizes
 Teams that win their regional competition advance to the Finals (in Washington, DC). Future City provides round-trip transportation and hotel accommodations for the U.S. team’s three student presenters, educator, and mentor. Learn more about awards and prizes at Future City Finals here.
 (to https://futurecity.org/awards/)
@@ -26,10 +26,9 @@ About the team:
 Sanjana — Co-Founder
 Dasha — Co-Founder
 Mrs. L. — Educator/Coach
-[How it will be run
+How it will be run
 Contact:
 Email Dasha at dkatkova@upatoday.com
 Email Sanjana at syedluri@upatoday.com
 Email Ms. L. at slapeyrade@upatoday.com
-
 
